@@ -206,7 +206,10 @@ public class MovieCollection
         {
             cast4[i] = castSorted.get(i);
         }
-        return cast4;
+        for(int i = 0; i < cast4.length; i++)
+        {
+
+        }
     }
 
 
